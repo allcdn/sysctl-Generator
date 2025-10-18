@@ -177,3 +177,9 @@ SOFTWARE.
   <br>
   High-Performance Web Hosting & VPS Services
 </p>
+
+© 2025 ENGINYRING. All rights reserved.  
+
+* * *
+
+[Web hosting](https://www.enginyring.com/en/webhosting) | [VPS hosting](https://www.enginyring.com/en/virtual-servers) | [Free DevOps tools](https://www.enginyring.com/tools)
