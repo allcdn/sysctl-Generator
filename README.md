@@ -2,5 +2,5 @@
 ## 💻 使用方法
 
 ```bash
-wget -qO- https://your-domain.com/install_sysctl_optimizer.sh | bash
+wget -qO- https://github.com/allcdn/sysctl-Generator/raw/refs/heads/main/sysctlgzh.sh | bash
 ```
